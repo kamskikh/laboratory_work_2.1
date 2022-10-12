@@ -1,1 +1,1 @@
-<h1>It's second repository for laboratory work :yum: </h1> 
+<h1 align="center">It's 2nd repository for laboratory work :yum:</h1> 
